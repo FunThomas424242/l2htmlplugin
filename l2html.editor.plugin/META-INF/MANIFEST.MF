@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: L2HTML Editor
+Bundle-SymbolicName: l2html.editor.plugin;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: l2html.editor.plugin.Activator
+Bundle-Vendor: TestVendor
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.jface.text,
+ org.eclipse.core.resources,
+ org.eclipse.ui.editors,
+ org.eclipse.ui.ide
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
