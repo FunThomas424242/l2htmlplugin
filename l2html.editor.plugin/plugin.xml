@@ -7,7 +7,7 @@
       <editor
             name="L2HTML Multi-page Editor"
             extensions="l2html"
-            icon="icons/sample.gif"
+            icon="icons/main.gif"
             contributorClass="l2html.editor.plugin.editors.MultiPageEditorContributor"
             class="l2html.editor.plugin.editors.MultiPageEditor"
             id="l2html.editor.plugin.editors.MultiPageEditor">
@@ -21,7 +21,7 @@
       </category>
       <wizard
             name="Multi-page Editor file"
-            icon="icons/sample.gif"
+            icon="icons/main.gif"
             category="l2html.editor.plugin"
             class="l2html.editor.plugin.wizards.SampleNewWizard"
             id="l2html.editor.plugin.wizards.SampleNewWizard">
