@@ -1,0 +1,2 @@
+This folder contains resources, which will not be used by the plugin, but were used for producing other resources, which are used by this plugin (e.g. window backgrounds).
+This folder will be removed on release.
